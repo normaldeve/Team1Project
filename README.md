@@ -1,4 +1,4 @@
-5. 실습 환경 세팅
+## 실습 환경 세팅
     1. Repository 환경설정
         1. 팀 리드가 실습용 리파지토리 생성
         2. Github Repository 페이지 → Setting (우측 상단)
